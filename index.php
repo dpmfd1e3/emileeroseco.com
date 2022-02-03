@@ -49,7 +49,7 @@
 
     
       <main>
-          <h1>Content here</h1>
+          <h1>Content There</h1>
       </main>
       <content>
           <h2>Ways to Work Together</h2>
